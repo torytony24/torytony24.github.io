@@ -1,7 +1,7 @@
 main:
 
   - title: Soap Film Physics-Based Simulator
-    authors: Real-time, interactive simulation framework for soap bubbles based on PBD
+    authors: Real-time, interactive simulation framework for soap bubbles based on Position Based Dynamics
     conference: 2026
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
@@ -15,7 +15,7 @@ main:
 
   - title: Jell-Kkagi
     authors: 2023
-    conference: Pseudo-3D mini game including soft-body simulation and RL built from-scratch
+    conference: Pseudo-3D mini game including soft-body simulation and reinforcement learning built from-scratch
     code: https://github.com/MrGiovanni/ContinualLearning
     image: ./assets/img/teaser_example_2.png
     
