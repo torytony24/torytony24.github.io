@@ -8,14 +8,14 @@ main:
     image: ./assets/img/teaser_example_2.png
 
   - title: Position Based Dynamics
-    authors: 2024
-    conference: Implementation of PBD & XPBD
+    authors: Implementation of PBD & XPBD
+    conference: 2024
     code: https://github.com/MrGiovanni/ContinualLearning
     image: ./assets/img/teaser_example_2.png
 
   - title: Jell-Kkagi
-    authors: 2023
-    conference: Pseudo-3D mini game including soft-body simulation and reinforcement learning built from-scratch
+    authors: Pseudo-3D mini game including soft-body simulation and reinforcement learning built from-scratch
+    conference: 2023
     code: https://github.com/MrGiovanni/ContinualLearning
     image: ./assets/img/teaser_example_2.png
     
