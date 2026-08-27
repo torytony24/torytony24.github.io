@@ -1,14 +1,24 @@
 main:
 
-  - title: d here
-    authors: Sang-hwa Lee
-    conference: 2026
+  - title: Soap Film Physics-Based Simulator
+    authors: 2026
+    conference: PBD based soap film simulator 
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
 
+  - title: Position Based Dynamics
+    authors: 2024
+    conference: implementation of PBD \& XPBD
+    code: https://github.com/MrGiovanni/ContinualLearning
+    image: ./assets/img/teaser_example_2.png
+
+  - title: Jell-Kkagi
+    authors: 2023
+    conference: from-scratch mini game including soft-body simulation and RL
+    code: https://github.com/MrGiovanni/ContinualLearning
+    image: ./assets/img/teaser_example_2.png
+    
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: MICCAI
