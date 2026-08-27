@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an Undergraduate student at ...
 
 ## Research Interests
 
