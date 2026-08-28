@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am an Undergraduate student at ...
+I am an undergraduate student in Electrical and Computer Engineering at Seoul National University. I enjoy exploring ideas in computer graphics and am actively seeking research opportunities in the field.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Graphics:** Physics-based simulation, differentiable physics, learning-based character control
+- **Embodied AI & Robotics:** Sim-to-real transfer, reinforcement learning for control
 
 {% include_relative _includes/publications.md %}
 
