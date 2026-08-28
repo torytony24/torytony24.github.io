@@ -1,23 +1,23 @@
 main:
 
-  - title: Soap Film Physics-Based Simulator
+  - title: Soap Film Physics-Based Simulation
     authors: Real-time, interactive simulation framework for soap bubbles based on Position Based Dynamics
     conference: 2026
-    pdf: https://
-    code: https://github.
-    video: https://
-    image: ./assets/img/teaser_example_2.png
+    pdf: ./assets/files/Soap_Film_Physics_Based_Simulation.pdf
+    code: https://github.com/torytony24/graphics_project
+    video: https://drive.google.com/file/d/1XvvhhoVtZpCW9X4dlpIYqcsWhvA-_Ymr/view?usp=sharing
+    image: ./assets/img/soap_film.png
 
   - title: Position Based Dynamics
     authors: Implementation of PBD & XPBD
     conference: 2024
-    code: https://github.com/MrGiovanni/ContinualLearning
-    image: ./assets/img/teaser_example_2.png
+    code: https://github.com/torytony24/Position-Based-Dynamics
+    image: ./assets/img/pbd.png
 
   - title: Jell-Kkagi
     authors: Pseudo-3D mini game including soft-body simulation and reinforcement learning built from-scratch
     conference: 2023
-    pdf: https://
-    code: https://github.com/MrGiovanni/ContinualLearning
-    image: ./assets/img/teaser_example_2.png
+    pdf: ./assets/files/Jell-Kkagi.pdf
+    code: https://github.com/torytony24/Jell-Kkagi
+    image: ./assets/img/jell_kkagi.png
     
