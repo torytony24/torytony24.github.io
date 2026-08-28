@@ -5,7 +5,7 @@ main:
     conference: 2026
     pdf: https://
     code: https://github.
-    Video: https://
+    video: https://
     image: ./assets/img/teaser_example_2.png
 
   - title: Position Based Dynamics
