@@ -3,20 +3,30 @@ main:
   - title: Soap Film Physics-Based Simulation
     authors: Real-time, interactive simulation framework for soap bubbles based on Position Based Dynamics
     conference: 2026
+    conference_short: Graphics
     pdf: https://drive.google.com/file/d/1vGIb0aGnaTXakS-vGSaVuONKK7RxQuIL/view?usp=sharing
     code: https://github.com/torytony24/graphics_project
     bibtex: https://drive.google.com/file/d/1XvvhhoVtZpCW9X4dlpIYqcsWhvA-_Ymr/view?usp=sharing
     image: ./assets/img/soap_film.png
 
+  - title: Universal VarNet
+    authors: A robust reconstruction framework using anatomy-specific instance normalization and model distillation
+    conference: 2025
+    conference_short: ML
+    code: https://github.com/torytony24/FastMRI_challenge
+    image: ./assets/img/fastmri.png
+    
   - title: Position Based Dynamics
     authors: Implementation of PBD & XPBD
     conference: 2024
+    conference_short: Graphics
     code: https://github.com/torytony24/Position-Based-Dynamics
     image: ./assets/img/pbd.png
 
   - title: Jell-Kkagi
     authors: Pseudo-3D mini game including soft-body simulation and reinforcement learning built from-scratch
     conference: 2023
+    conference_short: Development
     pdf: https://drive.google.com/file/d/14IbobGkqKYfR7QDvt4Cy9TwyQasnXag9/view?usp=sharing
     code: https://github.com/torytony24/Jell-Kkagi
     image: ./assets/img/jell_kkagi.png
