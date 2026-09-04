@@ -14,7 +14,7 @@ main:
     conference: 2025
     conference_short: ML
     code: https://github.com/torytony24/FastMRI_challenge
-    bibtex: https://drive.google.com/file/d/1v3679UGfNkNK3OLGHtILz1x-e6WTKSa0/view?usp=sharing
+    pdf: https://drive.google.com/file/d/1v3679UGfNkNK3OLGHtILz1x-e6WTKSa0/view?usp=sharing
     image: ./assets/img/fastmri.png
     
   - title: Position Based Dynamics
